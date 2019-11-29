@@ -1,0 +1,93 @@
+body { 
+    margin: 0; 
+    background-color: lightyellow;
+    background-image: url(Images/pastel.jpg); 
+    background-repeat:no-repeat; 
+    font-family: 'Courier New', Courier, monospace;  
+}
+
+main { 
+    border: 10px dashed rgb(152, 192, 238); 
+    background-image: url(Images/lavendar.jpg); 
+    width: 80%;  
+    margin: 0; 
+
+
+}
+
+header { 
+    border: 50px solid lightpink; 
+    background-color: rgb(235, 230, 233);
+    height: 6em; 
+    padding: 1em 3em; 
+    border-radius: 5px 90px 5px 90px; 
+    border: 5px solid pink; 
+    background-image: url(images/samoy1.jpg); 
+    background-repeat: none; 
+
+
+}
+
+header h1 { 
+    text-align: center;
+    margin: .5em 0em; 
+
+}
+
+nav { 
+    background-color: rgb(253, 211, 218); 
+    text-align: center; 
+    margin: 0em; 
+    box-shadow: 5px 5px 5px 5px rgb(212, 136, 212);
+    color: plum; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+
+    
+    
+
+}
+nav :hover{ 
+    background-color: rgb(255, 255, 185); 
+}
+
+
+.Nav style { 
+    display: block;
+    float: left;  
+    clear: left;
+    height: 2em;  
+    width: 20%; 
+    text-align: center; 
+    line-height: 2em; 
+    text-decoration: none; 
+
+}
+
+.Nav style link, Nav Style:visited {
+    color: rgb(255, 255, 255);
+} 
+
+
+section { 
+clear: left; 
+min-height: 20em; 
+padding: 1em 3em; 
+text-align: center; 
+
+
+}
+
+.Nav Style:hover {
+    background-color: rgb(120, 108, 236); 
+
+
+}
+
+footer { 
+    padding: 1em 3em; 
+    background-color: aliceblue; 
+    border-top: 1px solid rgb(186, 91, 241); 
+    text-align: right; 
+
+
+}
